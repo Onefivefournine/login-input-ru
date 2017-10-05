@@ -1,4 +1,4 @@
-# Smart login input 
+# Vue smart login input 
 Includes tel mask(RU +7) and switch to email
 
 ### Installation

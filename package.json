@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo 'This is a test'"
   },
+  "repository": "Onefivefournine/login-input-ru",
   "keywords": [
     "vue",
     "component",
