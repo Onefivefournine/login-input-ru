@@ -1,0 +1,17 @@
+{
+  "name": "login-input-ru",
+  "version": "1.0.0",
+  "description": "email/phone smart input for russian numbers",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo 'This is a test'"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "login",
+    "input"
+  ],
+  "author": "onefivefournine",
+  "license": "ISC"
+}
